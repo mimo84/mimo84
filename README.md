@@ -29,7 +29,7 @@ It’s not all business though, I have a strong passion for photography and I li
 
 #### Department of Housing and Public Works, Brisbane (QLD) — _Sr. Software Engineer_ 
 
-**MAR 2021 - Present**
+**MAR 2021 - AUG 2021**
 
 Working to digitalise the developer experience of the Queensland Government. 
 
