@@ -72,3 +72,5 @@ If you have used WordPress, LinkedIn or IBM Web Content Manager it is very likel
 | English 🇦🇺    | C2     |
 | Italian 🇮🇹    | Native |
 | Portuguese 🇧🇷 | B1     |
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mimo84)](https://github.com/anuraghazra/github-readme-stats)
